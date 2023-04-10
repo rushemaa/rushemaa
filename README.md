@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-<h1> Hi 👋 am Rushema Anicet, a software Engineer</h1>
+<h1> Hi 👋 am Rushema Anicet, a software engineer</h1>
 
 <a href="https://twitter.com/rushemaa"><img src="imgs/twitter.svg" alt="Twitter"></a>
 <a href="https://github.com/rushemaa"><img src="imgs/github.svg" alt="GitHub"></a>
