@@ -4,16 +4,15 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
+
 ## Hi 👋 am Rushema Anicet
 
 <h3 align="center">Software Engineer</h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/charlotte-divine-dusenge/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mugisha.aimable.547" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
-<a href="https://twitter.com/divine_maina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash_chowrasia" height="30" width="40" /></a>
-<a href = "mailto: divinemaina@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="10" width="10" /></a>
-</p>
+<a href="https://twitter.com/rushemaa"><img src="imgs/twitter.svg" alt="Twitter"></a>
+<a href="https://github.com/rushemaa"><img src="imgs/github.svg" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/rushema-anicet-77494088/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+
 <p align="center">
   <em>
    Well, This is ME, RUSHEMA Anicet, 
@@ -69,7 +68,7 @@ fascinated</b>
 ## What I'm doing now
 - currently on the lookout for new opportunities
 
-🌱 Enhancing my full-stack developer skills everyday
+🌱 Improving my software development skills
 
 
 
