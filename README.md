@@ -1,10 +1,8 @@
-## Hi 👋 am Rushema Anicet
-
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-<h3>Software Engineer</h3>
+## Hi 👋 am Rushema Anicet, a software Engineer
 
 <a href="https://twitter.com/rushemaa"><img src="imgs/twitter.svg" alt="Twitter"></a>
 <a href="https://github.com/rushemaa"><img src="imgs/github.svg" alt="GitHub"></a>
