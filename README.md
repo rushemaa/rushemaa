@@ -2,11 +2,13 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-## Hi 👋 am Rushema Anicet, a software Engineer
+<h1> Hi 👋 am Rushema Anicet, a software Engineer</h1>
 
 <a href="https://twitter.com/rushemaa"><img src="imgs/twitter.svg" alt="Twitter"></a>
 <a href="https://github.com/rushemaa"><img src="imgs/github.svg" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/rushema-anicet-77494088/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+
+<hr />
 
 ## 🔧 Technologies & tools
 
@@ -25,7 +27,7 @@
 
 ### Tools
 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)  
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
